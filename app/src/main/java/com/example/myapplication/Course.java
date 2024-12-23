@@ -1,3 +1,5 @@
+// Course section
+
 package com.example.myapplication;
 
 public class Course {
