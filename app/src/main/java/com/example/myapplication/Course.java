@@ -1,4 +1,4 @@
-// Course section
+// Course section page 1
 
 package com.example.myapplication;
 
