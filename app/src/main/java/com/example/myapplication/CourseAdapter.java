@@ -1,4 +1,3 @@
-// example
 
 package com.example.myapplication;
 
